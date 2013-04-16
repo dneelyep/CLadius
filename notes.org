@@ -1,0 +1,8 @@
+* Libraries this game depends on:
+** lispbuilder-sdl
+To get: (ql:quickload "lispbuilder-sdl")
+** lispbuilder-sdl-image
+To get: (ql:quickload "lispbuilder-sdl-image")
+* Useful extra libraries:
+** lispbuilder-sdl-examples
+To get: (ql:quickload "lispbuilder-sdl-examples")
