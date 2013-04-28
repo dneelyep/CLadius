@@ -12,7 +12,6 @@
 
 (defparameter *path-prefix* "/home/daniel/Programming/Common_Lisp/games/Gradius_clone/")
 
-(defparameter *random-color* sdl:*white*)
 (defstruct menu-item
   x
   y
